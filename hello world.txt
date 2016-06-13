@@ -1,5 +1,7 @@
-print("Hello world")
-print("Hello everybody")
-חךרעו(ÝûאןûןûÝ)
-print("Hello my dear friend")
-print("Ïהפג וש ûףף םשד")
+
+print("Hello world;")
+print("Hello everybody;")
+חךרעו(Ýûאןûןû;Ý)
+print("Hello my dear friend;")
+print("Ïהפג וש ûףף םשד;")
+
